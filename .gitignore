@@ -1,0 +1,8 @@
+# specify the files/folder to ignore
+
+target/
+.classpath
+.project
+.settings
+.SpringBeans
+.factoryPath
